@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/calorie-calculator/static/css/main.65ac5b22.chunk.css",
+    "main.js": "/calorie-calculator/static/js/main.8109a312.chunk.js",
+    "main.js.map": "/calorie-calculator/static/js/main.8109a312.chunk.js.map",
+    "runtime-main.js": "/calorie-calculator/static/js/runtime-main.e3da879e.js",
+    "runtime-main.js.map": "/calorie-calculator/static/js/runtime-main.e3da879e.js.map",
+    "static/css/2.ff8bd605.chunk.css": "/calorie-calculator/static/css/2.ff8bd605.chunk.css",
+    "static/js/2.c8ca845c.chunk.js": "/calorie-calculator/static/js/2.c8ca845c.chunk.js",
+    "static/js/2.c8ca845c.chunk.js.map": "/calorie-calculator/static/js/2.c8ca845c.chunk.js.map",
+    "index.html": "/calorie-calculator/index.html",
+    "precache-manifest.8e3c0eb75505f6670be2e91a9eacd42d.js": "/calorie-calculator/precache-manifest.8e3c0eb75505f6670be2e91a9eacd42d.js",
+    "service-worker.js": "/calorie-calculator/service-worker.js",
+    "static/css/2.ff8bd605.chunk.css.map": "/calorie-calculator/static/css/2.ff8bd605.chunk.css.map",
+    "static/css/main.65ac5b22.chunk.css.map": "/calorie-calculator/static/css/main.65ac5b22.chunk.css.map",
+    "static/js/2.c8ca845c.chunk.js.LICENSE": "/calorie-calculator/static/js/2.c8ca845c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3da879e.js",
+    "static/css/2.ff8bd605.chunk.css",
+    "static/js/2.c8ca845c.chunk.js",
+    "static/css/main.65ac5b22.chunk.css",
+    "static/js/main.8109a312.chunk.js"
+  ]
+}
