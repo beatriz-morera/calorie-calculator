@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b91d4692d00c221d4fe0db3031e30d0",
+    "revision": "effda6c02c7c81d8420ca4e50de96da3",
     "url": "/calorie-calculator/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calorie-calculator/static/css/2.ff8bd605.chunk.css"
   },
   {
-    "revision": "49cf51f993d97bd2b354",
-    "url": "/calorie-calculator/static/css/main.65ac5b22.chunk.css"
+    "revision": "783aec886cd19af02ead",
+    "url": "/calorie-calculator/static/css/main.6cf1f785.chunk.css"
   },
   {
     "revision": "e13cd8d9f0cfcbc5bb2c",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calorie-calculator/static/js/2.c8ca845c.chunk.js.LICENSE"
   },
   {
-    "revision": "49cf51f993d97bd2b354",
+    "revision": "783aec886cd19af02ead",
     "url": "/calorie-calculator/static/js/main.8109a312.chunk.js"
   },
   {
