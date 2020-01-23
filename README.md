@@ -1,6 +1,9 @@
-# calories calculator
+# calorie calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo Page
+
+You can check the project running at:
+[https://beatriz-morera.github.io/calorie-calculator/](https://beatriz-morera.github.io/calorie-calculator/)
 
 ## Available Scripts
 
