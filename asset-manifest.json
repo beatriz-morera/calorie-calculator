@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/calorie-calculator/static/css/main.6cf1f785.chunk.css",
-    "main.js": "/calorie-calculator/static/js/main.8109a312.chunk.js",
-    "main.js.map": "/calorie-calculator/static/js/main.8109a312.chunk.js.map",
+    "main.css": "/calorie-calculator/static/css/main.c6a86926.chunk.css",
+    "main.js": "/calorie-calculator/static/js/main.c4586e7d.chunk.js",
+    "main.js.map": "/calorie-calculator/static/js/main.c4586e7d.chunk.js.map",
     "runtime-main.js": "/calorie-calculator/static/js/runtime-main.e3da879e.js",
     "runtime-main.js.map": "/calorie-calculator/static/js/runtime-main.e3da879e.js.map",
     "static/css/2.ff8bd605.chunk.css": "/calorie-calculator/static/css/2.ff8bd605.chunk.css",
     "static/js/2.c8ca845c.chunk.js": "/calorie-calculator/static/js/2.c8ca845c.chunk.js",
     "static/js/2.c8ca845c.chunk.js.map": "/calorie-calculator/static/js/2.c8ca845c.chunk.js.map",
     "index.html": "/calorie-calculator/index.html",
-    "precache-manifest.96e51c18f8a32dcdd441db3e631d9454.js": "/calorie-calculator/precache-manifest.96e51c18f8a32dcdd441db3e631d9454.js",
+    "precache-manifest.b272860b415b4b24b9e4efae5685051c.js": "/calorie-calculator/precache-manifest.b272860b415b4b24b9e4efae5685051c.js",
     "service-worker.js": "/calorie-calculator/service-worker.js",
     "static/css/2.ff8bd605.chunk.css.map": "/calorie-calculator/static/css/2.ff8bd605.chunk.css.map",
-    "static/css/main.6cf1f785.chunk.css.map": "/calorie-calculator/static/css/main.6cf1f785.chunk.css.map",
+    "static/css/main.c6a86926.chunk.css.map": "/calorie-calculator/static/css/main.c6a86926.chunk.css.map",
     "static/js/2.c8ca845c.chunk.js.LICENSE": "/calorie-calculator/static/js/2.c8ca845c.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e3da879e.js",
     "static/css/2.ff8bd605.chunk.css",
     "static/js/2.c8ca845c.chunk.js",
-    "static/css/main.6cf1f785.chunk.css",
-    "static/js/main.8109a312.chunk.js"
+    "static/css/main.c6a86926.chunk.css",
+    "static/js/main.c4586e7d.chunk.js"
   ]
 }
