@@ -3,9 +3,8 @@ import Step from './Step';
 import Gender from './Gender';
 import Input from './Input';
 import Activities from './Activities';
-import Button from '../Button';
 
-const StepContainer = ({ onChange, onCalculate }) => {
+const StepContainer = ({ onChange }) => {
   const [state, setState] = useState({});
 
   useEffect(() => {
@@ -32,10 +31,6 @@ const StepContainer = ({ onChange, onCalculate }) => {
       <Input value={69} unit={'kg'} onChange={onChangeHandler('weight')} />
       <Step value={5} title={'How active are you on daily basis?'} />
       <Activities onChange={onChangeHandler('activity')} />
-      <Button
-        value={'Calculate your needed calorie intake'}
-        start={onCalculate}
-      />
     </div>
   );
 };

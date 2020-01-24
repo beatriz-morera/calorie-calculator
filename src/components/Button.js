@@ -1,10 +1,12 @@
 import React from 'react';
 
-const Button = ({ value, start }) => {
+const Button = ({ value, onCalculate }) => {
   return (
-    <button className="button" onClick={start}>
-      {value}
-    </button>
+    <div className="button-container">
+      <button className="button" onClick={onCalculate}>
+        {value}
+      </button>
+    </div>
   );
 };
 
