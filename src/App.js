@@ -25,25 +25,30 @@ const App = () => {
       />
       <p className="text-result">Your personal result</p>
       <Step value={'?'} />
-      <p className="result-headline">Lose weight</p>
-      <Result
-        calories={typeof calories === 'number' ? calories - 500 : calories}
-        value={
-          'This range of daily calories will enable you to lose 0.5 kg per week.'
-        }
-      />
-      <p className="result-headline">Maintain weight</p>
-      <Result
-        calories={calories}
-        value={
-          'This range of daily calories will enable you to maintain your current weight.'
-        }
-      />
-      <p className="result-headline">Gain weight</p>
-      <Result
-        calories={typeof calories === 'number' ? calories + 500 : calories}
-        value="This range of daily calories will enable you to gain 0.5 kg per week."
-      />
+
+      <section className="results-container">
+        <div className="result">
+          <p className="result-headline">Lose weight</p>
+          <Result
+            calories={typeof calories === 'number' ? calories - 500 : calories}
+            value={'This range of daily calories will enable you to lose 0.5 kg per week.'}
+          />
+        </div>
+        <div className="result">
+          <p className="result-headline">Maintain weight</p>
+          <Result
+            calories={calories}
+            value={'This range of daily calories will enable you to maintain your current weight.'}
+          />
+        </div>
+        <div className="result">
+          <p className="result-headline">Gain weight</p>
+          <Result
+            calories={typeof calories === 'number' ? calories + 500 : calories}
+            value="This range of daily calories will enable you to gain 0.5 kg per week."
+          />
+        </div>
+      </section>
     </main>
   );
 };
