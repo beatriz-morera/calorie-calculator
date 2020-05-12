@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/calorie-calculator/static/css/main.c6a86926.chunk.css",
-    "main.js": "/calorie-calculator/static/js/main.10f7d9c6.chunk.js",
-    "main.js.map": "/calorie-calculator/static/js/main.10f7d9c6.chunk.js.map",
+    "main.css": "/calorie-calculator/static/css/main.b3001233.chunk.css",
+    "main.js": "/calorie-calculator/static/js/main.32bdcdb9.chunk.js",
+    "main.js.map": "/calorie-calculator/static/js/main.32bdcdb9.chunk.js.map",
     "runtime-main.js": "/calorie-calculator/static/js/runtime-main.e3da879e.js",
     "runtime-main.js.map": "/calorie-calculator/static/js/runtime-main.e3da879e.js.map",
     "static/css/2.ff8bd605.chunk.css": "/calorie-calculator/static/css/2.ff8bd605.chunk.css",
     "static/js/2.c8ca845c.chunk.js": "/calorie-calculator/static/js/2.c8ca845c.chunk.js",
     "static/js/2.c8ca845c.chunk.js.map": "/calorie-calculator/static/js/2.c8ca845c.chunk.js.map",
     "index.html": "/calorie-calculator/index.html",
-    "precache-manifest.49e1df4e7123b32537cc565b0cd17b43.js": "/calorie-calculator/precache-manifest.49e1df4e7123b32537cc565b0cd17b43.js",
+    "precache-manifest.0373e3ad5dd2d1551545b8caf752f7f9.js": "/calorie-calculator/precache-manifest.0373e3ad5dd2d1551545b8caf752f7f9.js",
     "service-worker.js": "/calorie-calculator/service-worker.js",
     "static/css/2.ff8bd605.chunk.css.map": "/calorie-calculator/static/css/2.ff8bd605.chunk.css.map",
-    "static/css/main.c6a86926.chunk.css.map": "/calorie-calculator/static/css/main.c6a86926.chunk.css.map",
+    "static/css/main.b3001233.chunk.css.map": "/calorie-calculator/static/css/main.b3001233.chunk.css.map",
     "static/js/2.c8ca845c.chunk.js.LICENSE": "/calorie-calculator/static/js/2.c8ca845c.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e3da879e.js",
     "static/css/2.ff8bd605.chunk.css",
     "static/js/2.c8ca845c.chunk.js",
-    "static/css/main.c6a86926.chunk.css",
-    "static/js/main.10f7d9c6.chunk.js"
+    "static/css/main.b3001233.chunk.css",
+    "static/js/main.32bdcdb9.chunk.js"
   ]
 }
