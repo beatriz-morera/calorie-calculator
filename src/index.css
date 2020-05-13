@@ -25,7 +25,7 @@
 }
 main {
   background-color: var(--page-background-color);
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 
 .ant-switch {
@@ -65,16 +65,12 @@ main {
   flex-wrap: wrap;
   justify-content: center;
 }
-.step {
-  margin: 0 50px;
-}
 
 .calculator-step-container {
   display: block;
 }
 
-.calculator-step,
-.separator-line {
+.calculator-step {
   text-align: center;
   margin-top: 50px;
 }
@@ -184,9 +180,9 @@ main {
 }
 .activities-items,
 .active-activity {
-  margin-top: 20px;
   padding: 10px;
-  margin: 10px 30px;
+  margin: 20px;
+  width: 300px;
   border-bottom: 1px solid #b5b5b5;
   cursor: pointer;
 }
@@ -301,12 +297,15 @@ main {
   text-align: center;
 }
 
-@media (min-width: 650px) {
+@media (min-width: 768px) {
   .main-title {
     text-align: center;
   }
   .step-title {
     width: 350px;
     padding: 0;
+  }
+  .step {
+    margin: 0 50px;
   }
 }
