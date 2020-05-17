@@ -1,4 +1,6 @@
-# calorie calculator
+# Daily Calorie Intake Calculator
+
+Calorie Needs Calculator
 
 ## Demo Page
 
